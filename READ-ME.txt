@@ -1,0 +1,1 @@
+this is a practice website that i did to learn about the basics of html, it talks about the best starter Pokémon which is obviously Bulbasaur.
